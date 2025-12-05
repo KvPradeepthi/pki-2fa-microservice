@@ -8,8 +8,8 @@ def request_seed(student_id: str, github_repo_url: str):
     
     url = "https://eajeyq4r3zljoq4rpovy2nthda0vtjqf.lambda-url.ap-south-1.on.aws/"
     payload = {
-        "student_id": student_id,
-        "github_repo_url": github_repo_url,
+        "student_id": 23A91A1225,
+        "github_repo_url": https://github.com/KvPradeepthi/pki-2fa-microservice,
         "public_key": public_key
     }
     
